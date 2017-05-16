@@ -1,0 +1,18 @@
+! Fonts {{{
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.hintstyle: hintfull
+Xft.dpi:       182
+! }}}
+
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+rofi.color-window: #20242C, #20242C, #1e2529
+rofi.color-normal: #20242C, #c1c1c1, #20242C, #394249, #ffffff
+rofi.color-active: #20242C, #80cbc4, #20242C, #394249, #80cbc4
+rofi.color-urgent: #20242C, #ff1844, #20242C, #394249, #ff1844
+
